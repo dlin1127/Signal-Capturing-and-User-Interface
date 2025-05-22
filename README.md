@@ -10,5 +10,7 @@ Target: This is the Python file for real-time ADC reading, and it plots the sign
 Functionality: Reads the signal from the DUE and plot it with matplotlib. 
 Note: Upload the adc_read.ino file before using this python file
 
-# c
+# csv_read.py:L
+Target: This is the python file for reading a csv file and plotting the waveform
+Functionality: It plots the data on an interactive window and take FFT on the signal as well. 
 
